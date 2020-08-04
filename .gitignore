@@ -49,4 +49,3 @@ Temporary Items
 node_modules
 .DS_Store
 .env
-.env.test
