@@ -1,4 +1,3 @@
-USE burgers_db;
-
-INSERT INTO burgers(burger_name)
-VALUES ('Cheese Burger'), ('Chicken Burger'), ('Vege Burger');
+INSERT INTO burgers_table (burger_name) VALUES ('Ed Burger 1');
+INSERT INTO burgers_table (burger_name) VALUES ('Ed Burger 2');
+INSERT INTO burgers_table (burger_name) VALUES ('Ed Burger 3');
