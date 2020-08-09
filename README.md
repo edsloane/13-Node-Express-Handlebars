@@ -14,7 +14,7 @@
 * [Questions](#questions)
 
 ### Installation:
-This application is deployed to [Heroku](https://desolate-garden-74745.herokuapp.com/)
+This application is deployed to [Heroku.](https://desolate-garden-74745.herokuapp.com/)
 
 ### Usage:
   Create/Delete data on the site as desired.
